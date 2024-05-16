@@ -1,59 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2023-06-19T01:55:33.904Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="iEeVIPHknMB4VCxkmZmf" version="21.1.7" type="github">
-  <diagram id="Qf43ZpmOu6kOw_-ivAvN" name="Halaman-1">
-    <mxGraphModel dx="926" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2024-05-16T13:50:28.628Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="22.1.16" etag="KI-bLEOmaLPqABNBx9Is" type="github">
+  <diagram name="Halaman-1" id="7NnVHsSkE9rmd5JeKPmz">
+    <mxGraphModel>
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_hnG1-ujDG_lGcl0wJfI-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_hnG1-ujDG_lGcl0wJfI-2" target="_hnG1-ujDG_lGcl0wJfI-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_hnG1-ujDG_lGcl0wJfI-2" value="Membuat kuesinoer&amp;nbsp;&lt;br&gt;berdasarkan dimensi&lt;br&gt;servqual" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="40" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_hnG1-ujDG_lGcl0wJfI-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_hnG1-ujDG_lGcl0wJfI-4" target="_hnG1-ujDG_lGcl0wJfI-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_hnG1-ujDG_lGcl0wJfI-4" value="Data kuesioner" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="220" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_hnG1-ujDG_lGcl0wJfI-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_hnG1-ujDG_lGcl0wJfI-9" target="_hnG1-ujDG_lGcl0wJfI-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_hnG1-ujDG_lGcl0wJfI-9" value="Kuesioner disebarkan ke responden" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="130" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_hnG1-ujDG_lGcl0wJfI-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_hnG1-ujDG_lGcl0wJfI-12" target="_hnG1-ujDG_lGcl0wJfI-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_hnG1-ujDG_lGcl0wJfI-12" value="Uji Validitas dan Reliabilitas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="310" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_hnG1-ujDG_lGcl0wJfI-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_hnG1-ujDG_lGcl0wJfI-14" target="_hnG1-ujDG_lGcl0wJfI-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_hnG1-ujDG_lGcl0wJfI-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_hnG1-ujDG_lGcl0wJfI-14" target="_hnG1-ujDG_lGcl0wJfI-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="560" y="450" />
-              <mxPoint x="560" y="160" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_hnG1-ujDG_lGcl0wJfI-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.008;entryY=0.633;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_hnG1-ujDG_lGcl0wJfI-14" target="_hnG1-ujDG_lGcl0wJfI-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_hnG1-ujDG_lGcl0wJfI-14" value="Apakah kuesioner valid atau reliabel?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="314" y="400" width="200" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="_hnG1-ujDG_lGcl0wJfI-16" value="Data kuesioner" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="530" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_hnG1-ujDG_lGcl0wJfI-25" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="515" y="415" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_hnG1-ujDG_lGcl0wJfI-26" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="295" y="545" width="30" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
